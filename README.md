@@ -3,7 +3,14 @@
 -------------------------------------
 
 ### 🥋 The current skills under my belt include:
-HTML/CSS JavaScript ReactJS TypeScript AngularJS NodeJS Jest/Enzyme NO-SQL(Firebase/MongoDB)
+* HTML/CSS
+* JavaScript
+* ReactJS
+* TypeScript
+* AngularJS
+* NodeJS
+* Jest/Enzyme 
+* NO-SQL(Firebase/MongoDB)
    
 
 ### 🌱 I am currently working on:
