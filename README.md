@@ -14,10 +14,10 @@
    
 
 ### 🌱 I am currently working on:
-* Functional React 
+* A 'time saved in lockdown' app, built in functional React 
 * Java
 * Building my first NPM package
-* A [new site](https://offshore-stainless.firebaseapp.com/) for a local manufacturing company
+* A [new site](https://offshore-stainless.firebaseapp.com/) for a local manufacturing company, built in class-based React
 
 ### 📮 Find me at:
 * LinkedIn: https://www.linkedin.com/in/sam-joyce-att/
