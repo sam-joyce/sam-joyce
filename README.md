@@ -1,15 +1,9 @@
 # Hi 👋, I'm Sam!
-## I'm a software developer on a mission to make tech more accesible 🌎 and to explore the areas of tech that excite me.
+### I'm a software developer on a mission to make tech more accesible 🌎 and to explore the areas of tech that excite me.
+-------------------------------------
 
 ### 🥋 The current skills under my belt include:
-* Frontend
-   * JavaScript
-   * ReactJS
-   * TypeSript
-   * AngularJS
-   
-* Backend
-   * NodeJS
+HTML/CSS JavaScript ReactJS TypeScript AngularJS NodeJS Jest/Enzyme NO-SQL(Firebase/MongoDB)
    
 
 ### 🌱 I am currently working on:
