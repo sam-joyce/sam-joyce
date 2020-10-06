@@ -17,7 +17,7 @@
 * Functional React 
 * Java
 * Building my first NPM package
-* [Freelance Site](https://offshore-stainless.firebaseapp.com/)
+* A [new site](https://offshore-stainless.firebaseapp.com/) for a local manufacturing company
 
 ### 📮 Find me at:
 * LinkedIn: https://www.linkedin.com/in/sam-joyce-att/
