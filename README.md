@@ -10,7 +10,7 @@
 * AngularJS
 * NodeJS
 * Jest/Enzyme 
-* NO-SQL(Firebase/MongoDB)
+* No-SQL(Firebase/MongoDB)
    
 
 ### 🌱 I am currently working on:
