@@ -11,6 +11,7 @@
 * NodeJS
 * Jest/Enzyme 
 * No-SQL(Firebase/MongoDB)
+* SQL
    
 
 ### 🌱 I am currently working on:
