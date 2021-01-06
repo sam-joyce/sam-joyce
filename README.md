@@ -3,12 +3,11 @@
 -------------------------------------
 
 ### 🥋 The current skills under my belt include:
-* HTML/CSS
-* JavaScript
+* HTML/CSS & JavaScript
 * ReactJS
-* TypeScript
 * AngularJS
 * NodeJS
+* TypeScript
 * Jest/Enzyme 
 * No-SQL(Firebase/MongoDB)
 * SQL
