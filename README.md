@@ -11,7 +11,7 @@
 * Spring Boot
 * Google Cloud Platform
 * Jest/Enzyme Testing Frameworks 
-* No-SQL & MySQL Databases
+* NoSQL & MySQL Databases
 
 ### 📮 Find me at:
 * LinkedIn: https://www.linkedin.com/in/sam-joyce-att/
