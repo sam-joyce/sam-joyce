@@ -9,9 +9,9 @@
 * TypeScript
 * Java (w. JUnit)
 * Spring Boot (w. Mockito)
-* Google Cloud Platform
+* GCP Deployment and Microservices
 * Docker & Kubernetes
-* NoSQL & MySQL Databases
+* Relational (MySQL) & Non Relational (NySQL) Databases
 
 ### 📮 Find me at:
 * LinkedIn: https://www.linkedin.com/in/sam-joyce-att/
