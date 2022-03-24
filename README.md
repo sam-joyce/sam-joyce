@@ -3,14 +3,14 @@
 -------------------------------------
 
 ### 🥋 The current skills under my belt include:
-* HTML/CSS & JavaScript
-* ReactJS
+* HTML/CSS & JavaScript (w. Jest & Cypress)
+* ReactJS (w. Enzyme & React Testing Library)
 * NodeJS
 * TypeScript
-* Java
-* Spring Boot
+* Java (w. JUnit)
+* Spring Boot (w. Mockito)
 * Google Cloud Platform
-* Jest/Enzyme Testing Frameworks 
+* Docker & Kubernetes
 * NoSQL & MySQL Databases
 
 ### 📮 Find me at:
